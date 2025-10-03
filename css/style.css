@@ -1,0 +1,29 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+}
+
+span {
+    font-size: 1rem;
+}
+
+#i {
+    color: red;
+}
+
+#n {
+    color: blue;
+}
+
+#t {
+    color: red;
+}
